@@ -1,7 +1,7 @@
 @font-face {
     font-family: 'kionaregular';
-    src: url('../kiona-regular-webfont.woff') format('woff2'),
-         url('../kiona-regular-webfont.woff') format('woff');
+    src: url('..kiona-regular-webfont.woff') format('woff2'),
+         url('..kiona-regular-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 
@@ -9,15 +9,15 @@
 
 @font-face {
     font-family: 'walkway_condensedregular';
-    src: url('../walkway_condensed-webfont.woff2') format('woff2'),
-         url('../walkway_condensed-webfont.woff') format('woff');
+    src: url('..walkway_condensed-webfont.woff2') format('woff2'),
+         url('..walkway_condensed-webfont.woff') format('woff');
     font-weight: normal;
     font-style: normal;
 }
 
 body {
     font-family: 'kionaregular';
-    background-image: url(../1.jpg);
+    background-image: url(..1.jpg);
 }
 
 .content__credits {
